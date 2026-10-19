@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Abigail Amoah! 👋
 
-<!--
-**AbigailAmoah/AbigailAmoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I am a Master's student in Statistics at **Miami University**, Oxford, Ohio.
+My work focuses on statistical modeling and applying rigorous quantitative methods to real-world research problems.
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
+- Exploratory & confirmatory factor analysis
+- Generalized linear models
+- Experimental design & statistical inference
+- Data visualization & interactive dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+| Tool | Purpose |
+|------|---------|
+| **R** | Statistical modeling, R Shiny dashboards, R Markdown |
+| **SAS** | Data analysis, statistical procedures |
+| **SPSS** | Survey data analysis, factor analysis |
+| **Excel** | Data management, reporting |
+
+## 📂 Featured Projects
+| Project | Methods Used |
+|---------|-------------|
+| 🧬 HIV Longitudinal Data Analysis | Linear mixed-effects models |
+| 📊 STEM Interest Factor Analysis | Exploratory factor analysis |
+| ⚡ Renewable Energy Dashboard | R Shiny, data visualization |
+| 🧪 Experimental Design Analysis | ANOVA, statistical inference |
+| 📈 Generalized Linear Models & GPCA | GLM, statistical algorithms |
+| 🔢 GPCA & Statistical Computing | IRLS, GAS algorithms, R |
+
+## 📫 Connect With Me
+- 📍 Oxford, Ohio
+- 🎓 Miami University — M.S. Statistics
